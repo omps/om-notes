@@ -10,4 +10,4 @@ Gemfile.lock
 
 # Mac OSX
 .DS_Store
-..gitignore.~undo-tree~
+*~undo-tree~

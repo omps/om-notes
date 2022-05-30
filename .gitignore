@@ -4,9 +4,10 @@ _site
 # cache
 .sass-cache
 .jekyll-metadata
-
+.jekyll-cache
 # gem lock file
 Gemfile.lock
 
 # Mac OSX
 .DS_Store
+..gitignore.~undo-tree~
